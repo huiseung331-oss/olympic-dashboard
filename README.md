@@ -21,4 +21,4 @@
 - (하계 올림픽 데이터만 사용)
 
 ## 🛠️ 사용 기술
-- Python, Streamlit, Pandas, Plotly
+- Python, Streamlit, Github
