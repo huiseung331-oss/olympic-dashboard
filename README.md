@@ -3,8 +3,7 @@
 1896년 아테네 올림픽부터 2016년 리우 올림픽까지의 데이터를 분석한 스트림릿 웹앱입니다.
 
 ## 📌 프로젝트 소개
-근대 올림픽 120년의 역사를 데이터로 분석하여 시각화한 프로젝트입니다.(by_20806김희승, 20807박건록)
-
+근대 올림픽 120년의 역사를 데이터로 분석하여 시각화한 프로젝트입니다.
 ## 📊 페이지 구성
 - 🏠 **홈**: 프로젝트 소개 및 전체 통계 요약
 - 🗺️ **국가별 메달 지도**: 나라별 메달 수를 세계지도에 표현
@@ -13,7 +12,7 @@
 
 ## 🗂️ 데이터 출처
 - Kaggle: 120 years of Olympic history
-- 원 출처: sports-reference.com
+- 원 출처: [sports-reference.com](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 - (하계 올림픽 데이터만 사용)
 
 ## 🛠️ 사용 기술
